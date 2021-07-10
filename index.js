@@ -68,6 +68,6 @@ const startServer = async (client) => {
     }
 
 create('session', serverOption)
-    const  botadmins  =  [ '556196333905@c.us' , '1223234344@c.us' , '62324839894@c.us' ]
+    const  botadmins  =  [ '916290411422@c.us' ]
 	.then(async (client) => startServer(client))
     .catch((error) => console.log(error))
